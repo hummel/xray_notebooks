@@ -1,3 +1,10 @@
+figures
+.ipynb_checkpoints/
+
+scratch.ipynb
+
+
+#=======DEFAULTS=======================
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
